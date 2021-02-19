@@ -1,5 +1,5 @@
 body {
-  background-color: #d3ece2;
+  background-color: #d6eadf;
 }
 
 hr {
@@ -21,4 +21,15 @@ p,ul,ol,table,label {
 
 img {
   width:200px;
+}
+
+a {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #255f85;
+  text-decoration: none;
+}
+
+a:hover {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #95b8d1;
 }
